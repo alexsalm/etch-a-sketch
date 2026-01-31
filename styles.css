@@ -1,3 +1,7 @@
+body {
+    background-color: #121212;
+}
+
 .button-div {
     display: flex;
     justify-content: center;
